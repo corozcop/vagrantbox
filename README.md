@@ -76,7 +76,7 @@ y luego
 $ vagrant up
 ```
 
-![beanstalk](C:\Users\carlos\Pictures\github\images\beanstalk.PNG)
+![beanstalk](https://github.com/corozcop/experttyce.io/blob/master/images/beanstalk.PNG)
 
 ![mailhog](C:\Users\carlos\Pictures\github\images\mailhog.PNG)
 
@@ -97,4 +97,3 @@ El aviso de copyright anterior y este aviso de permiso incluidos en todas las co
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO SIN LIMITARSE A LAS GARANTÍAS DE COMERCIALIZACIÓN, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO SERÁN LOS AUTORES O LOS TITULARES DE DERECHOS DE AUTOR RESPONSABLE DE CUALQUIER RECLAMACIÓN, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, QUE SURJAN DE, EN FORMA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS NEGOCIOS EN EL SOFTWARE.
 ```
-
