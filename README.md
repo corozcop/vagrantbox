@@ -1,5 +1,7 @@
 # ExpertTyCE Box
 
+![EXPERTTYCEBOX](https://github.com/corozcop/experttyce.io/blob/master/images/VAGRANTART.jpg)
+
 ## Tutorial
 
 Esta caja de vagrant está preconfigurada para que unos miutos tengas listo un ambiente de desarrollo completo para iniciar directamente a codificar sin preocuparte por la instalacion y configuracion de Linux.
