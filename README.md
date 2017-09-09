@@ -6,8 +6,6 @@
 
 Esta caja de vagrant está preconfigurada para que unos miutos tengas listo un ambiente de desarrollo completo para iniciar directamente a codificar sin preocuparte por la instalacion y configuracion de Linux.
 
-[TOC]
-
 
 
 ## ExpertTyCE Box v0.0.1
