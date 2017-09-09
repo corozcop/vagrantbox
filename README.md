@@ -78,9 +78,9 @@ $ vagrant up
 
 ![beanstalk](https://github.com/corozcop/experttyce.io/blob/master/images/beanstalk.PNG)
 
-![mailhog](C:\Users\carlos\Pictures\github\images\mailhog.PNG)
+![mailhog](https://github.com/corozcop/experttyce.io/blob/master/images/mailhog.PNG)
 
-![jasperserver](C:\Users\carlos\Pictures\github\images\jasperserver.PNG)
+![jasperserver](https://github.com/corozcop/experttyce.io/blob/master/images/jasperserver.PNG)
 
 
 
@@ -91,9 +91,20 @@ $ vagrant up
 ```
 Copyright (c) 2017 Carlos Orozco
 
-Por este medio se concede permiso a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluyendo sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribuir, sublicenciar y / o vender copias del Software, y permitir que las personas a las que se suministre el Software, con sujeción a las siguientes condiciones:
+Por este medio se concede permiso a cualquier persona que obtenga una copia de este software y
+archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones,
+incluyendo sin limitación, los derechos de uso, copia, modificación, fusión, publicación,
+distribuir, sublicenciar y / o vender copias del Software, y permitir que las personas a las que 
+se suministre el Software, con sujeción a las siguientes condiciones:
 
-El aviso de copyright anterior y este aviso de permiso incluidos en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO SIN LIMITARSE A LAS GARANTÍAS DE COMERCIALIZACIÓN, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO SERÁN LOS AUTORES O LOS TITULARES DE DERECHOS DE AUTOR RESPONSABLE DE CUALQUIER RECLAMACIÓN, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, QUE SURJAN DE, EN FORMA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS NEGOCIOS EN EL SOFTWARE.
+El aviso de copyright anterior y este aviso de permiso incluidos en todas las copias o partes
+sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, 
+INCLUYENDO PERO SIN LIMITARSE A LAS GARANTÍAS DE COMERCIALIZACIÓN, ADECUACIÓN PARA UN PROPÓSITO
+PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO SERÁN LOS AUTORES O LOS TITULARES DE DERECHOS DE 
+AUTOR RESPONSABLE DE CUALQUIER RECLAMACIÓN, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE
+CONTRATO, AGRAVIO O DE OTRA MANERA, QUE SURJAN DE, EN FORMA O EN CONEXIÓN CON EL SOFTWARE O EL
+USO U OTROS NEGOCIOS EN EL SOFTWARE.
 ```
