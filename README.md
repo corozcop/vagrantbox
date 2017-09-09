@@ -64,7 +64,7 @@ Esta caja de vagrant está preconfigurada para que unos miutos tengas listo un a
 
 ## Instalación
 
-El proceso de instalación es muy sencilla, solo se requiere como tener instalado [Vagrant](https://www.vagrantup.com/downloads.html) y [Virtualbox](https://www.virtualbox.org/wiki/Downloads) y obviamente Git
+El proceso de instalación es muy sencilla, solo se requiere tener instalado [Vagrant](https://www.vagrantup.com/downloads.html) y [Virtualbox](https://www.virtualbox.org/wiki/Downloads) y obviamente Git
 
 ```basic
 $ git clone https://github.com/corozcop/vagrantbox
@@ -82,7 +82,9 @@ $ vagrant up
 
 ![jasperserver](https://github.com/corozcop/experttyce.io/blob/master/images/jasperserver.PNG)
 
+## Documentacion
 
+Toda la documentación sobre el uso de la caja y sus características lo podrás encontrar en el [blog](https://blog.experttyce.com/) 
 
 # 
 
