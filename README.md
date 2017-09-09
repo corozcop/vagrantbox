@@ -84,7 +84,7 @@ $ vagrant up
 
 
 
-# Licencia MIT
+# 
 
 # Licencia MIT
 
