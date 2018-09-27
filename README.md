@@ -92,7 +92,7 @@ $ vagrant up
 
 ## Documentacion
 
-Toda la documentación sobre el uso de la caja y sus características lo podrás encontrar en el [blog](https://blog.experttyce.com/) 
+Toda la documentación sobre el uso de la caja y sus características lo podrás encontrar en el [blog](https://www.experttyce.com/) 
 
 # 
 
