@@ -4,7 +4,7 @@
 
 ## Tutorial
 
-Esta caja de vagrant está preconfigurada para que unos miutos tengas listo un ambiente de desarrollo completo para iniciar directamente a codificar sin preocuparte por la instalacion y configuracion de Linux.
+Esta caja de vagrant está preconfigurada para que unos minutos tengas listo un ambiente de desarrollo completo para iniciar directamente a codificar sin preocuparte por la instalacion y configuracion de Linux.
 
 
 
